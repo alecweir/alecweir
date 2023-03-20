@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+Welcome to my profile! I am a fullstack developer in Adelaide, South Australia 🇦🇺
+
+There isn't much for me to put here yet, but I have some exciting projects in the work that I plan on sharing as they mature, so stay tuned! 😁
 
 <!--
 **alecweir/alecweir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
